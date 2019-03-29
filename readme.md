@@ -43,25 +43,47 @@ Digital Humanities
 数字人文项目合作平台分析——以DHCOMMONS为例 http://www.kmf.ac.cn/p/113/
 #### DocuSky http://docusky.org.tw/DocuSky/index.html
 台湾
-### 文本
+### 档案
+####文本
 中國哲學書電子化計劃 Chinese Text Project https://ctext.org/zh
 
 CADAL数字图书馆 China Academic Digital Associative Library http://www.cadal.zju.edu.cn/index
+#### 图像
+卡塔尔图书馆 https://www.qdl.qa/en
 ## 研究数字人文的机构
 centerNet http://dhcenternet.org/
+
+国际数位人文组织联盟（英语：Alliance of Digital Humanities Organizations ,  ADHO），成立于2005年，是个在数位人文学领域中的中介组织，其目标在于协调世界各地数位人文组织的活动
+https://en.wikipedia.org/wiki/Alliance_of_Digital_Humanities_Organizations
 ### 国外
+#### 俄罗斯
+数字时代的人文学科：从行业信息学到数字人文学科
+http://huminf.tsu.ru/our_projects/digital_humanities/ 
+
+一些俄罗斯的DH工具，和DH全球地图
 #### 欧洲
+European Association of Digital Humanities 欧洲数字人文协会 https://eadh.org/
+
+欧洲数字人文暑期大学-莱比锡 http://www.culingtec.uni-leipzig.de/ESU_C_T/the_name
+
 UCL https://www.ucl.ac.uk/digital-humanities/
 
 KCL https://www.kcl.ac.uk/ddh
 
+http://www.centrefordigitalhumanities.nl/ #not working
+
 #### 美国
-UCLA http://dh101.humanities.ucla.edu
+UCLA
+http://dh101.humanities.ucla.edu
 
 UIUC 
 https://guide.dhcuration.org/about/
 
-Stanford 
+TAMU
+http://codhr.dh.tamu.edu/
+
+Stanford
+https://litlab.stanford.edu/
 ### 台湾
 台湾
 
@@ -98,6 +120,10 @@ UCL/Turing/Edinburgh Melissa Terra http://melissaterras.blogspot.com/
 台湾 項潔教授
 
 清华 向帆 http://blog.sina.com.cn/boyston @可视化
+
+RAYMOND G. SIEMENS http://web.uvic.ca/~siemens/
+
+https://inke.ca/projects/publications/
 
 ### 人文计算到数字人文
 ## 数字人文的现状
