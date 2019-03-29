@@ -25,14 +25,17 @@ https://www.slideshare.net/Slidelib/introduction-to-digital-humanities-metadata-
 ## dh in chicago ###old
 https://humanities.uchicago.edu/articles/2014/11/digital-humanities-uchicago 
 
+https://voices.uchicago.edu/dhforum/ 每年开一个会
+
   http://www.cinemetrics.lv/
   
   https://artfl-project.uchicago.edu/
   
-  https://neubauercollegium.uchicago.edu/faculty/global_literary_networks/ 全球文学网络
+  https://neubauercollegium.uchicago.edu/faculty/global_literary_networks/ 全球文学网络 2013-2015
 
 ## dh in standford 
 https://digitalhumanities.stanford.edu/
+
 ### projects
 https://digitalhumanities.stanford.edu/projects
 
@@ -42,8 +45,10 @@ https://digitalhumanities.stanford.edu/projects
 ## cmu https://www.cmu.edu/dietrich/english/news/2017/humanities-analytics.html
 ### English Department
 https://www.cmu.edu/dietrich/english/classroom_and_beyond/faculty-research/digital-humanities.html
-http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network SNA
 
+http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network SNA可视化 #still working
+
+"Francis Bacon Network [2, 1562-1626, 61-100%]." Six Degrees of Francis Bacon. http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 3/29/2019.
 ## others
 台湾大学-数字人文研究中心，继承了台湾教育部投资建设的数字图书馆项目Taiwan History Digital LibraryTHDL 
 
