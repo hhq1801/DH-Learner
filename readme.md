@@ -73,6 +73,14 @@ KCL https://www.kcl.ac.uk/ddh
 http://www.centrefordigitalhumanities.nl/ #not working
 
 #### 美国
+
+Princeton 
+The Center for Digital Humanities
+https://cdh.princeton.edu/
+github:https://github.com/Princeton-CDH
+
+Harvard https://metalabharvard.github.io/
+
 UCLA
 http://dh101.humanities.ucla.edu
 
