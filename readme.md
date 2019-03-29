@@ -83,6 +83,7 @@ Harvard https://metalabharvard.github.io/
 
 UCLA
 http://dh101.humanities.ucla.edu
+https://humtech.ucla.edu/
 
 UIUC 
 https://guide.dhcuration.org/about/
@@ -92,6 +93,7 @@ http://codhr.dh.tamu.edu/
 
 Stanford
 https://litlab.stanford.edu/
+https://digitalhumanities.stanford.edu/projects
 ### 台湾
 台湾
 
