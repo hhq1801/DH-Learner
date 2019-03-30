@@ -149,3 +149,11 @@ https://inke.ca/projects/publications/
 ### Distant Reading Franko Moretti
 ###
 ## 参考文献
+美国数字人文高等教育探析 ——以加州大学洛杉矶分校为例* 
+ 杨晓雯. 欧美高校数字人文教育研究[J]. 情报探索,2018(7):76-82
+ 
+ 卷积神经网络在古籍汉字识别中的应用实践
+ 
+ http://www.digital.ntu.edu.tw/epaper/8/index.htm 台湾大学数位人文研究中心电子报
+ 
+ 朱华顺. 美国图书馆数字人文案例研究及启示——以布朗大学、纽约公共图书馆为例  [J]. 国家图书馆学刊, 2016(6):58-63,共6页.
