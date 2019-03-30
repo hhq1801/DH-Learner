@@ -10,6 +10,10 @@ Digital Humanities
 ## 为什么要学习数字人文
 ## Humanities包括什么
 历史、文学、考古、博物馆、传媒？等
+
+博物馆的思路--产研结合，文化产业，文创
+
+
 ## Digital包括什么
 
 ### 数字化（数位化）
@@ -95,8 +99,10 @@ Stanford
 https://litlab.stanford.edu/
 https://digitalhumanities.stanford.edu/projects
 ### 台湾
-台湾
 
+TELDAP 数位典藏与数位学习
+http://wiki.teldap.tw/index.php?title=%E9%A6%96%E9%A0%81
+http://teldap.tw/index.html
 
 「中國歷史研究的網絡基礎設施」國際研討會
 International Conference on Cyberinfrastructure for Historical China Studies
