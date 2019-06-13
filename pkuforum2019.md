@@ -45,13 +45,17 @@ https://blogs.ucl.ac.uk/dh/2018/01/12/ucl-advanced-imaging-consultants-uclaic-un
 
 ## pku kvlab
 http://kvlab.org/%E5%8E%9F%E5%9E%8B%E7%B3%BB%E7%BB%9F/
+
 http://dh.kvlab.org/cbdb_kg/
+
 http://dh.kvlab.org/cbdb_vis/part2_dizinet.html
 
 ## 向帆
 reingold-tilford algorithm
 https://en.wiktionary.org/wiki/Reingold-Tilford_algorithm
+
 cone tree 1991
+
 http://slideplayer.com/5118759/16/images/10/Cone+trees%3A+3D+interactive+animations.jpg
 
 https://www.ancestry.com/
