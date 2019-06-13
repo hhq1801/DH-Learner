@@ -1,12 +1,16 @@
 ## Hathitrust
 https://wiki.htrc.illinois.edu/display/COM/Extracted+Features+Dataset
+
 https://analytics.hathitrust.org/statisticalalgorithms
+
 https://litlab.stanford.edu/counting-words-in-hathitrust-with-python-and-mpi/
+
 ### creatingdata us
 http://creatingdata.us/
 
 ### bookworm
 https://ischool.illinois.edu/research/projects/hathitrust-bookworm-project
+
 https://github.com/Bookworm-project/Hathitrust-Bookworm
 
 ### transkribus
@@ -22,13 +26,16 @@ https://novel-tm.ca
 https://www.ucl.ac.uk/information-studies/simon-mahony
 
 ### deepimaging
+
 https://www.ucl.ac.uk/digital-humanities/projects/deepimaging
+
 https://www.ucl.ac.uk/digital-humanities/projects/deepimaging/data
 
 光学相干层析成像（optical coherence tomography, OCT）
 多光谱成像 multispectral image
 
 http://rbtoth.com/index.html
+
 http://www.greatparchmentbook.org/
 
 tim weyrich http://reality.cs.ucl.ac.uk/weyrich.html
